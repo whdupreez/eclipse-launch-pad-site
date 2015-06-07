@@ -3,5 +3,5 @@
    <feature url="features/com.rawpixil.eclipse.launchpad_0.0.1.qualifier.jar" id="com.rawpixil.eclipse.launchpad" version="0.0.1.qualifier">
       <category name="com.rawpixil.eclipse.launchpad.categories.all"/>
    </feature>
-   <category-def name="com.rawpixil.eclipse.launchpad.categories.all" label="Launch Pad"/>
+   <category-def name="com.rawpixil.eclipse.launchpad.categories.all" label="Eclipse Launch Pad"/>
 </site>
