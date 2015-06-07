@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <feature url="features/com.rawpixil.eclipse.launchpad_0.0.1.qualifier.jar" id="com.rawpixil.eclipse.launchpad" version="0.0.1.qualifier"/>
+   <category-def name="com.rawpixil.eclipse.launchpad.categories.all" label="Launch Pad"/>
+</site>
